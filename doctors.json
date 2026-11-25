@@ -1,7 +1,18 @@
 {
  "schema_version": 1,
- "revision": 1,
+ "revision": 2,
  "updated": "2026-11-25",
+ "show_empty_specialties": true,
+ "theme": {
+  "bg": "#FBF6E9",
+  "card": "#FFFFFF",
+  "stroke": "#E3CF9A",
+  "accent": "#9A6B00",
+  "accent_text": "#7A5400",
+  "text": "#2B2112",
+  "dim": "#5E4F30",
+  "chip": "#F3E6BF"
+ },
  "specialties": [
   "باطنة",
   "أطفال",
