@@ -1,17 +1,17 @@
 {
  "schema_version": 2,
- "revision": 6,
+ "revision": 8,
  "updated": "2026-11-25",
  "show_empty_specialties": true,
  "theme": {
-  "bg": "#F2F7FD",
+  "bg": "#EAF4F3",
   "card": "#FFFFFF",
-  "stroke": "#D3E2F6",
-  "accent": "#0B3A82",
-  "accent_text": "#0B3A82",
-  "text": "#0F1B33",
-  "dim": "#4A5A78",
-  "chip": "#E3EEFB"
+  "stroke": "#D3E6E4",
+  "accent": "#0E6B68",
+  "accent_text": "#0B5553",
+  "text": "#0D2B2A",
+  "dim": "#486463",
+  "chip": "#DDEEEC"
  },
  "specialties": [
   "باطنة",
