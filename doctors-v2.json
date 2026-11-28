@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "revision": 14,
+  "revision": 15,
   "updated": "2026-11-28",
   "show_empty_specialties": true,
   "theme": {
@@ -205,21 +205,6 @@
         {
           "label": "حجز",
           "number": "0962605006"
-        }
-      ]
-    },
-    {
-      "id": "r6",
-      "name": "د. محمود عبدالمولى",
-      "specialty": "باطنة حميات وجهاز هضمي وكبد",
-      "clinic": "",
-      "address": "نقادة بجوار مطعم زيزو بجوار محلات البركة",
-      "notes": "",
-      "shifts": [],
-      "phones": [
-        {
-          "label": "حجز",
-          "number": "01091830891"
         }
       ]
     },
